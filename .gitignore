@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+output/
+*.csv
+!data/README.md
+notebooks/owid-covid-data.csv/
+*.docx
+*.pdf
+pipeline_diagram
